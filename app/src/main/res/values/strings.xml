@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula 03</string>
+    <string name="organizar">Organizar</string>
+    <string name="reset">Resetar</string>
+    <string name="valor_1">Digite o valor 1</string>
+    <string name="valor_2">Digite o valor 2</string>
+    <string name="valor_3">Digite o valor 3</string>
+    <string name="valor_4">Digite o valor 4</string>
+    <string name="ordem_Lida">Ordem lida:</string>
+    <string name="ordem_crescente">Ordem Crescente:</string>
+    <string name="ordem_decrescente">Ordem Decrescente:</string>
+</resources>
